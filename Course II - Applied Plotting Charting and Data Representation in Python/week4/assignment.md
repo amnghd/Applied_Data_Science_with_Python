@@ -1,6 +1,6 @@
 #A fun visual story about a region
 
-This is the resutls of the "Applied Ploting, charting & Data Representation Course" by the University of Michigan. [Here](https://www.coursera.org/learn/python-plotting/notebook/lVxma/project-description) is a link to the project definition.
+This is the project output for the "Applied Ploting,  Charting & Data Representation Course" by the University of Michigan. [Here](https://www.coursera.org/learn/python-plotting/notebook/lVxma/project-description) is a link to the project definition.
 
 - You need to identify two publicly accessible dataset from the same region "that are consistent across a meaningful dimension".
 
